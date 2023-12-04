@@ -10,6 +10,7 @@ import GoogleIcon from "../../../components/GoogleIcon";
 
 const Signin = () => {
         const OnSignUp = () => {
+                console.log('hello');
         }
         return (
                 <ScrollView style={styles.container}>

@@ -25,6 +25,7 @@ export const styles=StyleSheet.create({
         footer:{
                 color: colors.blue,
                 textAlign :'center',
+                marginBottom:'56'
         },
         link:{
                 fontWeight:'bold'
